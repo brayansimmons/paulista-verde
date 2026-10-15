@@ -4,6 +4,6 @@
 // Use SOMENTE uma chave publicável (sb_publishable_...) do Supabase.
 // NUNCA coloque a secret key nem service_role em um site público.
 window.PAULISTA_CONFIG = {
-  supabaseUrl: "",
-  supabaseKey: ""
+  supabaseUrl: "https://oxxguhprqswhsrwavhmj.supabase.co",
+  supabaseKey: "sb_publishable_4mwLg887HKCvbLlFdUIaiQ_HdJH95VH"
 };
